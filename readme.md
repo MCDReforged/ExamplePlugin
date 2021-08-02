@@ -7,7 +7,7 @@ Available plugin formats:
 
 - [Solo Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/solo-plugin)
 - [Packed Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/packed-plugin)
-- [Directory Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/directory-plugin)
+- **Directory Plugin**
 
 ## Packed Plugin
 
