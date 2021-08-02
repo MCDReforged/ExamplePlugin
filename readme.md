@@ -11,6 +11,10 @@ Available plugin formats:
 
 ## Packed Plugin
 
-Run `python -m mcdreforged pack` in console, then you will get a packed plugin `ExamplePlugin-v1.0.0.mcdr`
+Directory plugin is mostly used for plugin debugging / development
 
-Put `ExamplePlugin-v1.0.0.mcdr` into the plugin folder of MCDR to use it
+Inside you IDE, set `ExamplePluginTest/` as the source root for easier coding
+
+Put the whole `ExamplePluginTest/` folder into the plugin folder of MCDR to use it
+
+You can also use command `python -m mcdreforged pack -i ./ExamplePluginTest` to pack this directory plugin into a packed plugin
