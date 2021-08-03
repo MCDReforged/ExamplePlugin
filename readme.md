@@ -5,8 +5,8 @@ An repository of example plugin of [MCDReforged](https://github.com/Fallen-Breat
 
 Available plugin formats:
 
-- **Solo Plugin**
-- [Packed Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/packed-plugin)
+- [Solo Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/solo-plugin)
+- **Packed Plugin**
 - [Directory Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/directory-plugin)
 
 ## Packed Plugin
