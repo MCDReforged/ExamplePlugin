@@ -9,7 +9,7 @@ Available plugin formats:
 - [Packed Plugin](https://github.com/MCDReforged/MCDReforged-ExamplePlugin/tree/packed-plugin)
 - **Directory Plugin**
 
-## Packed Plugin
+## Directory Plugin
 
 Directory plugin is mostly used for plugin debugging / development
 
