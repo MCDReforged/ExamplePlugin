@@ -15,6 +15,6 @@ The recommended plugin format of MCDR
 
 This branch is also a good example for you plugin to be store in VCS
 
-Run `python -m mcdreforged pack` in console, then you will get a packed plugin `ExamplePlugin-v1.0.0.mcdr`
+Run `python -m mcdreforged pack` in console, tt will pack your sources into a packed plugin `ExamplePlugin-v1.0.0.mcdr`
 
 Put `ExamplePlugin-v1.0.0.mcdr` into the plugin folder of MCDR to use it
