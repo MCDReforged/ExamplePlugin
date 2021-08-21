@@ -14,6 +14,7 @@ def on_load(server: PluginServerInterface, old_module):
 	Like migrating data, reading config file or adding help messages
 	old_module is the previous plugin instance. If the plugin is freshly loaded it will be None
 	"""
+	global counter
 	if old_module is not None:
 		counter = old_module.counter + 1
 	else:
