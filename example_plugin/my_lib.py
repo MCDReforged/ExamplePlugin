@@ -1,4 +1,4 @@
-from mcdreforged.api.all import *
+from mcdreforged import PluginServerInterface, Literal
 
 
 def register(server: PluginServerInterface):

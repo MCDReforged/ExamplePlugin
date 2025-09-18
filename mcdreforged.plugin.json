@@ -6,6 +6,6 @@
 	"author": "Fallen_Breath",
 	"link": "https://github.com/MCDReforged/MCDReforged-ExamplePlugin",
 	"dependencies": {
-		"mcdreforged": ">=2.0.0-alpha.1"
+		"mcdreforged": ">=2.15.0"
 	}
 }
