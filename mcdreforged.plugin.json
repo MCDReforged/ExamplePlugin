@@ -4,7 +4,7 @@
 	"name": "Example Plugin",
 	"description": "Example plugin for MCDR",
 	"author": "Fallen_Breath",
-	"link": "https://github.com/MCDReforged/MCDReforged-ExamplePlugin",
+	"link": "https://github.com/MCDReforged/ExamplePlugin",
 	"dependencies": {
 		"mcdreforged": ">=2.15.0"
 	}
