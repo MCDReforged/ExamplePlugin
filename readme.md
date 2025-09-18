@@ -1,7 +1,7 @@
 MCDReforged Example Plugin
 ---------
 
-An repository of example plugin of [MCDReforged](https://github.com/Fallen-Breath/MCDReforged)
+A repository of example plugin of [MCDReforged](https://github.com/Fallen-Breath/MCDReforged)
 
 Available plugin formats:
 
