@@ -7,10 +7,16 @@ PLUGIN_METADATA = {
 	'version': '1.1.0',
 	'name': 'Example Plugin',
 	'description': 'Example plugin for MCDR',
-	'author': 'Fallen_Breath',
-	'link': 'https://github.com/MCDReforged/ExamplePlugin',
+	'authors': [
+		{
+			'name': 'Fallen_Breath',
+		}
+	],
+	'links': {
+		'homepage': 'https://github.com/MCDReforged/ExamplePlugin',
+	},
 	'dependencies': {
-		'mcdreforged': '>=2.15.0',
+		'mcdreforged': '>=2.16.0',
 	}
 }
 
